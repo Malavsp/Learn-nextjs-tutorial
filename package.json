@@ -19,6 +19,7 @@
     "clsx": "^2.0.0",
     "dotenv-run-script": "^0.4.1",
     "next": "15.0.0-canary.28",
+    "next-auth": "5.0.0-beta.20",
     "postcss": "8.4.31",
     "react": "19.0.0-rc-6230622a1a-20240610",
     "react-dom": "19.0.0-rc-6230622a1a-20240610",
@@ -29,8 +30,8 @@
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.1",
-    "@types/react": "18.2.21",
-    "@types/react-dom": "18.2.14",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
     "@vercel/style-guide": "^5.0.1",
     "dotenv": "^16.3.1",
     "eslint": "^8.52.0",
