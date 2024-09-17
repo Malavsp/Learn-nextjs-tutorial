@@ -2,8 +2,8 @@
 
 **This is the NextJs Dashboard App Tutorial which consists of 16 chapters, each with different topics and concepts.**
 
-[!NOTE]
-Each Chapter is completed and committed as of their Chapter number 
+> [!NOTE]
+> Each Chapter is completed and committed as of their Chapter number. 
 
 - Chapter 1 - Getting Started
 
@@ -36,3 +36,7 @@ Each Chapter is completed and committed as of their Chapter number
 - Chapter 15 - Adding Authentication
 
 - Chapter 16 - Adding Metadata
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
